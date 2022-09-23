@@ -13,11 +13,11 @@ Gaibstore is my personal e-commerce project integrated with Midtrans and RajaOng
 
 Install
 
-> composer install
-> npm install
-> php artisan key:generate
-> php artisan migrate
-> php artisan db:seed
+> composer install <br>
+> npm install <br>
+> php artisan key:generate <br>
+> php artisan migrate <br>
+> php artisan db:seed <br>
 
 Run
 
